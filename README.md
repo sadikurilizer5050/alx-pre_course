@@ -1,1 +1,2 @@
-My Second Commit
+My Fisrt Commit
+And updated README.md
